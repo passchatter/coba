@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/coba/static/css/main.f855e6bc.css",
+    "main.js": "/coba/static/js/main.15783c70.js",
+    "index.html": "/coba/index.html",
+    "main.f855e6bc.css.map": "/coba/static/css/main.f855e6bc.css.map",
+    "main.15783c70.js.map": "/coba/static/js/main.15783c70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.15783c70.js"
+  ]
+}
